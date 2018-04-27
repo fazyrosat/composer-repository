@@ -17,6 +17,7 @@
       { "type": "vcs", "url": "git://github.com/deved-it/magento-keen-io"},
       { "type": "vcs", "url": "git://github.com/kojiromike/LogMail" },
       { "type": "vcs", "url": "git://github.com/danslo/Danslo_Aop" },
+      { "type": "vcs", "url": "git://github.com/fazyrosat/srb"},
       { "type": "vcs", "url": "git://github.com/magento-hackathon/HoneySpam.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FireGento_FlexCms" },
       { "type": "vcs", "url": "git://github.com/EasySize/Magento_SizeGuide.git" },
